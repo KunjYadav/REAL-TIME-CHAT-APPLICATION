@@ -17,11 +17,16 @@
 
 Let's Talk is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js). It allows users to sign up, sign in, and chat with other users in real time. The app utilizes Vite as a build tool, Socket.IO for real-time communication, Daisy UI for styling, JWT for authentication, and Tailwind CSS for UI components. The app is deployed on Render.
 
+![Logo](https://github.com/user-attachments/assets/d68893e9-a3d9-4534-8ab1-3dca2b9fa788)
+
 
 # OUTPUT
 
 
-
+|   |   |
+|---|---|
+| ![Screenshot 1](https://github.com/user-attachments/assets/a1c5edf3-0559-4029-8e38-791fedf689bb) | ![Screenshot 2](https://github.com/user-attachments/assets/b8363af8-79b6-4ce9-853a-d94eb0b62d7e) |
+| ![Screenshot 3](https://github.com/user-attachments/assets/010f5021-ba1b-4407-bca4-b6561db595d8) | ![Screenshot 4](https://github.com/user-attachments/assets/7aa65ccd-26c2-42ea-9465-f8adee4617ec) |
 
 
 
@@ -35,7 +40,7 @@ Let's Talk is a real-time chat application built using the MERN stack (MongoDB, 
 
 ## Deployment
 -The Let's Talk chat app is deployed on Render. 
-**[Live Demo](https://)**
+**[Live Demo](https://real-time-chat-application-8rxj.onrender.com/)**
 
 ## Installation
 
